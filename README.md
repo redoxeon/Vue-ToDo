@@ -2,6 +2,8 @@
 
 I used the Vue CLI template to get started on developing with Vue 3 in Vite.
 
+I'm deploying this site with netlify and using my already owned domain! 
+
 ## MVP Reqs
 
 - [x] View a list of to-do items
