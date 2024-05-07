@@ -7,11 +7,12 @@ import {
   faCircleDot,
   faCircleHalfStroke,
   faCircleCheck,
-  faCircleXmark
+  faCircleXmark,
+  faFilterCircleXmark
 } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
-library.add(faCircleDot, faCircleHalfStroke, faCircleCheck, faCircleXmark)
+library.add(faCircleDot, faCircleHalfStroke, faCircleCheck, faCircleXmark, faFilterCircleXmark)
 
 const app = createApp(App)
 

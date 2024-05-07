@@ -5,7 +5,7 @@ I used the Vue CLI template to get started on developing with Vue 3 in Vite.
 ## MVP Reqs
 
 - [x] View a list of to-do items
-  - [ ] with the ability to filter the list by pending, complete, and all to-dos
+  - [x] with the ability to filter the list by pending, complete, and all to-dos
 - [x] Create a new to-do item
 - [x] Edit a to-do item
 - [x] Delete a to-do item
